@@ -1,6 +1,6 @@
 cask "portsage" do
-  version "0.6.1"
-  sha256 "d72d9858a229c235cb2648b74b508bbafbd975b52607c8a294634e2034730328"
+  version "0.7.0"
+  sha256 "cf002ee06c8fb7db14ffbe97907d497b8c26f4c022b401707a81a352bf893b36"
 
   url "https://github.com/essedev/portsage/releases/download/v#{version}/Portsage_#{version}_aarch64.dmg"
   name "Portsage"
